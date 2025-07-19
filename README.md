@@ -73,8 +73,8 @@ PUT /:id – Update specific task
 
 DELETE /:id – Delete task
 
-📸 Screenshots
-Login
+📸 Screenshots \n
+Login \n
 <img width="333" height="212" alt="image" src="https://github.com/user-attachments/assets/0a076cdc-c652-4f8f-97cd-2063aa4c5552" />
 Signup
 <img width="331" height="316" alt="image" src="https://github.com/user-attachments/assets/d4e2a48d-60db-4908-9719-36fc76820d9f" />
